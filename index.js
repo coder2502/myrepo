@@ -1,2 +1,2 @@
 const name = 'Pratiksha'
-const name1 = 'Pratiksha Zende'
+const name2 = 'Pratiksha Zende'
